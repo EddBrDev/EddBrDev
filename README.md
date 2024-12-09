@@ -8,8 +8,8 @@
   <img src=https://img.shields.io/badge/linkedin-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 </div>
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
+<h2 align="left">Languages and Tools:</h2>
+<p align="center">
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
   </a> 
