@@ -3,11 +3,6 @@
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Software+Developer;Desarrollador+de+Software">
 </p>
-<div align="center">
-  <a href="https://www.linkedin.com/in/edward-naola/" target="_blank">
-  <img src=https://img.shields.io/badge/linkedin-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-</div>
 <h2 align="left">Languages and Tools:</h2>
 <p align="center">
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
